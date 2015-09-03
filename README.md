@@ -16,3 +16,9 @@ Functionality:
 This is automated using Heroku and Heroku Scheduler. Since I just finished writing the bot today, and have never used Heroku before I don't know if it'll be 100% free. I suspect that it should be given the way it's been set up. If it isn't, then I'll be sad.
 
 If you want to subscribe, check out these links! - [[Daily](http://www.reddit.com/message/compose/?to=HHHFreshBot&subject=subscribe&message=daily)] [[Weekly](http://www.reddit.com/message/compose/?to=HHHFreshBot&subject=subscribe&message=weekly)]
+
+Inspired by Nathan Diddle's [Jailbreak Round Up Bot](https://bitbucket.org/ibbignerd/jailbreak-roundup-bot)
+
+# License
+
+[See LICENSE](https://github.com/hizinfiz/HHHFreshBot/blob/master/LICENSE)
